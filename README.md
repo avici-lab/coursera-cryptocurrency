@@ -2,6 +2,7 @@
 Assignments from the Coursera course "Bitcoin and Cryptocurrency Technologies"
 
 the original repo of this fork did not get 100% score for assignment 1/2.
+
 95/100 for assignment 1, both versions of max fee handler scores 0.
 i use a simple tree search algorithm to get the max fee solution
 
